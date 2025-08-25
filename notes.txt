@@ -1,0 +1,4 @@
+## in lec 1 -> create conda environment using > create conda -p venv python==3.10
+## now create all the folder structure of projects 
+
+## __init__ .py is used to create a folder as a package or a module 
