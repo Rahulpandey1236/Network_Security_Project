@@ -2,3 +2,12 @@
 ## now create all the folder structure of projects 
 
 ## __init__ .py is used to create a folder as a package or a module 
+## pip install -r requirements.txt
+
+
+
+## Lec 2->  Upload on Github and create __init__.py in every flder under network security
+
+## lec 3 => write code in setup.py after print requirements test this it will print requirements im termianl
+## write setup => ## its just referring to setup.py build package from setup.py
+## pip install -r requirements.txt
