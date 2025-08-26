@@ -11,3 +11,12 @@
 ## lec 3 => write code in setup.py after print requirements test this it will print requirements im termianl
 ## write setup => ## its just referring to setup.py build package from setup.py
 ## pip install -r requirements.txt
+
+
+## LEC 4=> now logging and exception help us to debugging 
+## now create a file under logging logger.py 
+## create exception.py 
+## runexceotion.py using cd networksecurity cd exception pyhton exception.py
+
+
+## lec 5=> 
