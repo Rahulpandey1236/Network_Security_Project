@@ -19,4 +19,9 @@
 ## runexceotion.py using cd networksecurity cd exception pyhton exception.py
 
 
-## lec 5=> 
+## lec 5=> undrtand project structure and about ETL pipeline 
+
+## lec 6 => setup mongodb atlas =>
+
+## lec 7=>in pus_data.py
+## runs push_data.py =>  make push_data.py
