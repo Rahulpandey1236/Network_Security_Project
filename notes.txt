@@ -60,4 +60,7 @@ complete artifact_entity for data_transformation
 
 ## lec14 => data_transformation imp part2 => complete the data_transformation and run pyhton main,py
 
-##lec 15 => 
+##lec 15 => make model_trainer.py under components and complete it like other pipelines 
+# make a flder ml_utils under utils
+## create two folder metric and model under ml_utils
+
