@@ -49,3 +49,15 @@
 
 
 ## lec 12 => data_validation part 2 => complete all the data_vlaidaion.py and utils.py file 
+till here data_valiation completed
+
+## lec13=> data transformation => complete config_entity for data_transformation
+complete artifact_entity for data_transformation
+## update varable trainig_pipeline __init__.py
+## make data_transformation.py and complete it 
+## also complete utis .py 
+
+
+## lec14 => data_transformation imp part2 => complete the data_transformation and run pyhton main,py
+
+##lec 15 => 
