@@ -1,4 +1,4 @@
-## in lec 1 -> create conda environment using > create conda -p venv python==3.10
+ś## in lec 1 -> create conda environment using > create conda -p venv python==3.10
 ## now create all the folder structure of projects 
 
 ## __init__ .py is used to create a folder as a package or a module 
@@ -24,4 +24,16 @@
 ## lec 6 => setup mongodb atlas =>
 
 ## lec 7=>in pus_data.py
+## ETL completeion and check mongodb atlas in browse collection the data will show in json format 
 ## runs push_data.py =>  make push_data.py
+
+## LEC 8=> undersanding about data ingestiion config artifacts folder and other structure about project
+
+## LEc9=> data ingestion.py and in entity create config_entity.py and write code in entity config file 
+-< in constant folder ceate a foldeer trainig pipeline  => write code in __init__.py => inthis we have some constant value  in trainig_pipelnine fodler 
+## write code in config_entity.py    ## till here dataingestionconfig and in trainig_pipeline __init__.py is done ..... 
+
+ś
+## LEC 10 =>    write code in components data_ingestion.pyś
+## make artifact_entity.py under entity folder
+## create main.py out of every folder  
