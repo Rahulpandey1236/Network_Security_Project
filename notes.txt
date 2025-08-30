@@ -37,3 +37,15 @@
 ## LEC 10 =>    write code in components data_ingestion.pyś
 ## make artifact_entity.py under entity folder
 ## create main.py out of every folder  
+## run main.py
+
+
+## lec 11 => data validation = > now complete config entity under entity folder for validai=tion data also update var for validation datad
+## in compnts make data_validation.py 
+## complete data_validation.py
+## write code in artifact_entity 
+## create a folder data_schema in makes a file schema.yaml file
+## in utils make a fodler make_uls make a file utils.py then write in this file  
+
+
+## lec 12 => data_validation part 2 => complete all the data_vlaidaion.py and utils.py file 
